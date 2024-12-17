@@ -2,13 +2,17 @@
   "name": "codrill",
   "version": "0.0.1",
   "main": "index.js",
-  "type": "module",
+ 
   "scripts": {
     "start": "node src/index.js"
   },
   "author": "Surafel Yimam",
   "license": "MIT",
-  "keywords": ["cli", "algorithm", "training"],
+  "keywords": [
+    "cli",
+    "algorithm",
+    "training"
+  ],
   "description": "CLI Algorithm Training Package 🚀",
   "dependencies": {
     "chalk": "^5.3.0",
@@ -18,5 +22,6 @@
   },
   "bin": {
     "codrill": "./src/index.js"
-  }
+  },
+  "type": "module"
 }
