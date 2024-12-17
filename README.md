@@ -19,7 +19,7 @@ Codrill is a CLI-based algorithm training tool designed to help you practice sol
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/codrill.git
+git clone https://github.com/surafelx/codrill.git
 cd codrill
 ```
 
